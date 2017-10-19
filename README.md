@@ -1,2 +1,2 @@
 # CS1237
-[readMe](http://blog.csdn.net/dyingstraw/article/details/78285290)
+#[Click Me for more details](http://blog.csdn.net/dyingstraw/article/details/78285290)
